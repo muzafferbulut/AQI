@@ -1,0 +1,9 @@
+PM10: 5.0, AQI: 5, Message: Good
+PM10: 15.0, AQI: 14, Message: Good
+PM10: 25.0, AQI: 23, Message: Good
+PM10: 35.0, AQI: 32, Message: Good
+PM10: 15.0, AQI: 14, Message: Good
+PM10: 56.0, AQI: 51, Message: Moderate
+PM10: 65.0, AQI: 56, Message: Moderate
+PM10: 80.0, AQI: 63, Message: Moderate
+PM10: 150.0, AQI: 98, Message: Moderate
