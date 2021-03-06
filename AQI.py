@@ -82,6 +82,8 @@ def IndexMessage(AQI):
         return "Very unhealthy"
     elif AQI>=301 and AQI<=500:
         return "Hazardous"
+    else:
+        return "We have an error!"
 
 def AQI(IHi, ILo, BPHi, BPLo, Cp): # Calculate Air Quality Index
     Ip = round(((IHi-ILo)/(BPHi-BPLo))*(Cp-BPLo)+ILo)
